@@ -2,7 +2,7 @@
 
 A fully analyzed and hardware-implemented 3-revolute-joint serial manipulator, built as an independent robotics project. The project covers the complete pipeline: mechanical design, kinematic and dynamic derivation, MATLAB simulation/validation, and embedded PID control on real hardware.
 
-![3DOF Manipulator](media/arm_photo.jpg)
+![3DOF Manipulator](media/arm_photo.jpeg)
 
 ## Overview
 
